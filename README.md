@@ -1,6 +1,8 @@
 # 🚀 Aspiring Web Developer | Frontend Enthusiast | Mobile App Developer
 
-![Profile views](https://komarev.com)
+<p align="left">
+<img src="https://komarev.com" alt="Profile views" />
+</p>
 
 - 🎓 I'm currently following BSc(Hons) Software Engineering at Plymouth (UK)
 - 🌱 I'm currently learning **React Native**
@@ -11,20 +13,18 @@
 ---
 
 ### Connect with me:
-[![LINKEDIN](https://shields.io)](https://linkedin.com)
+<p align="left">
+<a href="https://linkedin.com" target="blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+</p>
 
 ---
 
 ### 🛠 Languages and Tools:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://skillicons.dev" alt="Tools Row 1" />
 </p>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+  <img src="https://skillicons.dev" alt="Tools Row 2" />
 </p>
