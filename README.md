@@ -19,28 +19,28 @@
 
 <p align="left">
   <!-- Row 1 Icons -->
-  <img src="https://githubusercontent.com" alt="digitalocean" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="bootstrap" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="c" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="csharp" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="docker" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="express" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="firebase" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="flutter" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="html5" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="illustrator" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="java" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="linux" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="digitalocean" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="bootstrap" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="c" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="csharp" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="docker" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="express" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="firebase" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="flutter" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="git" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="html5" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="illustrator" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="java" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="linux" width="40" height="40""")/>>
 </p>
 
 <p align="left">
   <!-- Row 2 Icons -->
-  <img src="https://githubusercontent.com" alt="mongodb" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="mysql" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="php" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="python" width="40" height="40""")/>>
-  <img src="https://githubusercontent.com" alt="react" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="mongodb" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="mysql" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="nodejs" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="php" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="python" width="40" height="40""")/>>
+  <img src="https://jsdelivr.net" alt="react" width="40" height="40""")/>>
 </p>
